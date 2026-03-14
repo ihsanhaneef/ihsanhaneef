@@ -106,6 +106,7 @@ export const cardReveal = (index = 0) => ({
   },
 });
 
+
 export const containerReveal = {
   hidden: { opacity: 0 },
   show: {
